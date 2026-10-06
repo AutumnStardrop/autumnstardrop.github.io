@@ -5,14 +5,14 @@
 }
 .body{
     font-family: Minecraft;
-    background-color: #54133D;
+    background-color: #4F0F00;
     /*Normal:0D001C Spring:54133D */
     color: #FCFCFC;
     min-height: 100vh;
 }
 .main_content {
     width: 900px;
-    background-color: #99236F;
+    background-color: #991C00;
     /*Normal:#27004C Spring:99236F*/
     margin-top: 0px;
     margin-bottom: 0px;
@@ -21,7 +21,7 @@
     min-height: 100vh;
 }
 .header {
-    background-color: #721A53;
+    background-color: #701600;
     /*Normal:190033  Spring:721A53*/
     display: flex;
     justify-content: center;
